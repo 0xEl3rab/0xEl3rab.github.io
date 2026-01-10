@@ -1,6 +1,6 @@
 # Cybersecurity Blog
 
-Welcome to my personal cybersecurity blog: [al3mda.github.io](https://al3mda.github.io)  
+Welcome to my personal cybersecurity blog: [0xel3rab.github.io](https://0xel3rab.github.io)  
 
 This blog is a space where I document my **learning journey in cybersecurity**, including:  
 
